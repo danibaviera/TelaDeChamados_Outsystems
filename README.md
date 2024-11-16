@@ -34,7 +34,7 @@ A tela de login permite que os usuários acessem o sistema inserindo suas creden
 ## Fluxo da criação das telas - Frontend
 ![image](https://github.com/user-attachments/assets/ccb94807-fe2e-46a7-bea4-bc4929d5e377)
 
-## RemoverOnClick s - Frontend
+## RemoverOnClick - Frontend
 ![image](https://github.com/user-attachments/assets/78cd30bc-52be-468e-9626-9e40c85283fe)
 
 
