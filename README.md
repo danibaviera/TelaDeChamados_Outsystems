@@ -25,7 +25,7 @@ A tela de login permite que os usuários acessem o sistema inserindo suas creden
 
 ## Tela para Editar ou Remover um Chamado 
 ![image](https://github.com/user-attachments/assets/01808885-2d09-442b-96cf-bb6b749dc6eb)
-![image](https://github.com/user-attachments/assets/d7470511-db22-487e-94a4-0462333bed54)
+![image](https://github.com/user-attachments/assets/3ba88902-c520-4838-86bd-a406fae4843a)
 
 ## Criação dentro da plataforma
 ### Fluxo dentro do Outsystems, tela de chamados Backend e Frontend
